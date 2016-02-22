@@ -1,6 +1,6 @@
 {
   "name": "ttp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "天天拍车前端集成工具",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [
     "ttp"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RichardLee1978/ttp.git"
+  },
   "author": "Richard Lee <shlrljlirui@gmail.com>",
   "license": "MIT",
   "bin": {
@@ -43,5 +47,9 @@
     "vinyl-source-stream": "^1.1.0",
     "iconv-lite": "^0.4.13"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/RichardLee1978/ttp/issues"
+  },
+  "homepage": "https://github.com/RichardLee1978/ttp#readme"
 }
