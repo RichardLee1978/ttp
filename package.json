@@ -1,6 +1,6 @@
 {
   "name": "ttp",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "天天拍车前端集成工具",
   "main": "index.js",
   "scripts": {
