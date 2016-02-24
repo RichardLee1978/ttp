@@ -34,5 +34,8 @@ ttp -b 2015.ttpai.cn webpack
   |--------_wpp.js
   |--------entry.js
   |--------base.html
-  |--------webpack.config.js
+```
+- 4.登录远程82主机并切换git仓库(dev branch)
+```
+ttp -r 82 dev
 ```
