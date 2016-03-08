@@ -22,7 +22,7 @@ module.exports = {
 
 }
 ```
-- 3.创建一个项目
+- 3.创建一个 webpack 项目(或者创建一个空项目 ttp -b projectname)
 ```
 ttp -b 2015.ttpai.cn webpack
 ```
