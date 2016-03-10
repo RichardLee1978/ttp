@@ -39,3 +39,7 @@ ttp -b 2015.ttpai.cn webpack
 ```
 ttp -r 82 dev
 ```
+- 5.登录远程主机执行上线部署任务
+```
+ttp deploy
+```
